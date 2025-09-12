@@ -1,6 +1,6 @@
 ![MasterHead](https://elementor.com/cdn-cgi/image/f=auto,w=1200,h=600/marketing/wp-content/uploads/sites/9/2020/12/14.12.2020_WEB-DESIGNER-VS-WEB-DEVELOPER_BLOG-01-2.png)
 <h1 align="center">Hi 👋, I'm Shashidher Mylarapu</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
