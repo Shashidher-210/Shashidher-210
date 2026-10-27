@@ -21,3 +21,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashidher-210&show_icons=true&locale=en&layout=compact" alt="shashidher-210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashidher-210&" alt="shashidher-210" /></p>
+
+## Projects
+
+<!-- personal-agent:projects:start -->
+- **Modern Responsive Personal Portfolio Website** — A modern, responsive personal portfolio website built with React, TypeScript, TanStack Start, and Tailwind CSS to showcase professional experience, skills, and projects. <!-- pa:modern-responsive-personal-portfolio-website -->
+<!-- personal-agent:projects:end -->
